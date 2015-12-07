@@ -16,11 +16,11 @@ Name | Last release | Current version | License
 [SMF](http://www.simplemachines.org/) | September 19, 2015 | 2.0.11 | [BSD License](http://www.simplemachines.org/about/smf/license.php)
 [UNB](http://newsboard.unclassified.de/) | None | [x] | Free
 [UseBB](http://www.usebb.net/) | None | [x] | Free
+[Vanilla](http://vanillaforums.org/) | November 12, 2015 | 2.2 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [XMB2](http://xmbforum2.com/) | None | [x] | Free
 [bbPress](https://bbpress.org/) | July 13, 2015 | 2.5.8 | [GPL](https://bbpress.org/about/gpl/)
 [esoTalk](http://esotalk.org/) | None | [x] | Free
 [phpBB](https://www.phpbb.com/) | None | [x] | Free
-[Vanilla](http://vanillaforums.org/) | November 12, 2015 | 2.2 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 
 #Others
 Name | URL
