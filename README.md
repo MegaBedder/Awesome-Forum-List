@@ -3,12 +3,15 @@
 Name | Last release | Current version | License
 --- | --- | --- | --- | ---
 [Advanced Electron Forum](http://www.anelectron.com/) | October 28, 2012 | 1.0.9 | [AEF license](http://www.anelectron.com/about.php?page=license)
+[AcmlmBoard XD](https://github.com/ABXD/ABXD) | May 20, 2014 | 3.0  | [BSD](https://raw.githubusercontent.com/ABXD/ABXD/master/LICENSE.md)
 [Beehive Forum](http://www.beehiveforum.co.uk/) | June 4, 2015 | 1.4.7 | [GPL v2](https://raw.githubusercontent.com/BeehiveForum/BeehiveForum/master/COPYING)
 [FUDForum](http://fudforum.org/) | October 5, 2014 | 3.0.6 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [Flarum](http://flarum.org/) | November 5, 2015 | 0.1.0 Beta 4 | [MIT license](https://raw.githubusercontent.com/flarum/flarum/master/LICENSE)
 [FluxBB](http://fluxbb.org/) | November 9, 2015 | 1.5.9 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
+[HaveFnuBB](https://github.com/havefnubb/havefnubb) | January 1, 2013 | 1.5.0 | [LGPL](http://www.gnu.org/licenses/lgpl.html)
 [IceBB](https://github.com/icebb/IceBB) | April 18, 2014 | 1.0 | [MIT license](https://raw.githubusercontent.com/icebb/IceBB/master/LICENSE)
 [Lua](http://getluna.org/) | November 6, 2015 | 1.2.3 | GPL v3
+[MiniBB](http://modernbb.be/) | July 28, 2015 | 3.2.1 | [Commercial License](http://www.minibb.com/commercial_license.html)
 [ModernBB](http://modernbb.be/) | July 28, 2015 | 4.0 | GPL v3
 [MyBB](http://www.mybb.com/) | None | [x] | Free
 [Phorum](http://www.phorum.org/) | None | [x] | Free
@@ -32,3 +35,7 @@ NodeBB | https://nodebb.org/
 UBB.threads | https://ubbcentral.com/
 Xenforo | https://xenforo.com/
 vBulletin | http://www.vbulletin.com/
+
+
+Compare boards: http://www.forummatrix.org/
+Scraper: https://github.com/lemurproject/forum-seed/
