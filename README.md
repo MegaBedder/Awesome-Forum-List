@@ -6,24 +6,24 @@ Name | Last release | Current version | License
 [AcmlmBoard XD](https://github.com/ABXD/ABXD) | May 20, 2014 | 3.0  | [BSD](https://raw.githubusercontent.com/ABXD/ABXD/master/LICENSE.md)
 [Beehive Forum](http://www.beehiveforum.co.uk/) | June 4, 2015 | 1.4.7 | [GPL v2](https://raw.githubusercontent.com/BeehiveForum/BeehiveForum/master/COPYING)
 [FUDForum](http://fudforum.org/) | October 5, 2014 | 3.0.6 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
-[Flarum](http://flarum.org/) | November 5, 2015 | 0.1.0 Beta 4 | [MIT license](https://raw.githubusercontent.com/flarum/flarum/master/LICENSE)
+[Flarum](http://flarum.org/) | March 30, 2016 | 0.1.0 Beta 5 | [MIT license](https://raw.githubusercontent.com/flarum/flarum/master/LICENSE)
 [FluxBB](http://fluxbb.org/) | November 9, 2015 | 1.5.9 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [HaveFnuBB](https://github.com/havefnubb/havefnubb) | January 1, 2013 | 1.5.0 | [LGPL](http://www.gnu.org/licenses/lgpl.html)
 [IceBB](https://github.com/icebb/IceBB) | April 18, 2014 | 1.0 | [MIT license](https://raw.githubusercontent.com/icebb/IceBB/master/LICENSE)
 [Lua](http://getluna.org/) | November 6, 2015 | 1.2.3 | GPL v3
 [MiniBB](http://modernbb.be/) | July 28, 2015 | 3.2.1 | [Commercial License](http://www.minibb.com/commercial_license.html)
 [ModernBB](http://modernbb.be/) | July 28, 2015 | 4.0 | GPL v3
-[MyBB](http://www.mybb.com/) | None | [x] | Free
-[Phorum](http://www.phorum.org/) | None | [x] | Free
+[MyBB](http://www.mybb.com/) | March 11, 2016 | 1.8.7 | [LGPL](http://www.gnu.org/licenses/lgpl-3.0.html)
+[Phorum](http://www.phorum.org/) | July 19, 2015 | 5.2.20 | [Phorum License v2](http://www.phorum.org/license.txt)
 [PunBB](http://punbb.informer.com/) | October 14, 2015 | 1.4.4 | [GPL](http://www.gnu.org/copyleft/gpl.html)
 [SMF](http://www.simplemachines.org/) | September 19, 2015 | 2.0.11 | [BSD License](http://www.simplemachines.org/about/smf/license.php)
-[UNB](http://newsboard.unclassified.de/) | None | [x] | Free
-[UseBB](http://www.usebb.net/) | None | [x] | Free
+[Unclassified NewsBoard](http://newsboard.unclassified.de/) | July 13, 2015 | 1.6.4-dev | GPL
+[UseBB](http://www.usebb.net/) | January 11, 2013 | 1.0.16 | [GPL v2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 [Vanilla](http://vanillaforums.org/) | November 12, 2015 | 2.2 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
-[XMB2](http://xmbforum2.com/) | None | [x] | Free
+[eXtreme Message Board v2](http://xmbforum2.com/) | June 22, 2015 | 1.9.11 | GPL
 [bbPress](https://bbpress.org/) | July 13, 2015 | 2.5.8 | [GPL](https://bbpress.org/about/gpl/)
-[esoTalk](http://esotalk.org/) | None | [x] | Free
-[phpBB](https://www.phpbb.com/) | None | [x] | Free
+[esoTalk](http://esotalk.org/) | 17 May 2014 | 1.0.0g4 | [GPLf v2](https://raw.githubusercontent.com/esotalk/esoTalk/develop/LICENSE.txt)
+[phpBB](https://www.phpbb.com/) | 17 April, 2016 | 3.1.9 | [GPL v2](https://www.phpbb.com/downloads/license/)
 
 #Others
 Name | URL
