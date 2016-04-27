@@ -1,4 +1,4 @@
-# List of Forum scripts
+# List of Forum scripts & Imageboard
 
 Name | Last release | Current version | License
 --- | --- | --- | --- | ---
@@ -7,6 +7,7 @@ Name | Last release | Current version | License
 [Beehive Forum](http://www.beehiveforum.co.uk/) | June 4, 2015 | 1.4.7 | [GPL v2](https://raw.githubusercontent.com/BeehiveForum/BeehiveForum/master/COPYING)
 [FUDForum](http://fudforum.org/) | October 5, 2014 | 3.0.6 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [Flarum](http://flarum.org/) | March 30, 2016 | 0.1.0 Beta 5 | [MIT license](https://raw.githubusercontent.com/flarum/flarum/master/LICENSE)
+[flooBB](https://github.com/rosslagerwall/floobb) | July 8, 2011 | 1.2.0 | [GPL v3](https://raw.githubusercontent.com/rosslagerwall/floobb/master/COPYING)
 [FluxBB](http://fluxbb.org/) | November 9, 2015 | 1.5.9 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [HaveFnuBB](https://github.com/havefnubb/havefnubb) | January 1, 2013 | 1.5.0 | [LGPL](http://www.gnu.org/licenses/lgpl.html)
 [IceBB](https://github.com/icebb/IceBB) | April 18, 2014 | 1.0 | [MIT license](https://raw.githubusercontent.com/icebb/IceBB/master/LICENSE)
@@ -22,8 +23,12 @@ Name | Last release | Current version | License
 [Vanilla](http://vanillaforums.org/) | November 12, 2015 | 2.2 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [eXtreme Message Board v2](http://xmbforum2.com/) | June 22, 2015 | 1.9.11 | GPL
 [bbPress](https://bbpress.org/) | July 13, 2015 | 2.5.8 | [GPL](https://bbpress.org/about/gpl/)
-[esoTalk](http://esotalk.org/) | 17 May 2014 | 1.0.0g4 | [GPLf v2](https://raw.githubusercontent.com/esotalk/esoTalk/develop/LICENSE.txt)
+[esoTalk](http://esotalk.org/) | 17 May 2014 | 1.0.0g4 | [GPL v2](https://raw.githubusercontent.com/esotalk/esoTalk/develop/LICENSE.txt)
+[Shimmie](https://github.com/shish/shimmie2) | 13 March, 2015 | 2.5.1 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [phpBB](https://www.phpbb.com/) | 17 April, 2016 | 3.1.9 | [GPL v2](https://www.phpbb.com/downloads/license/)
+[MyImouto](https://github.com/myimouto/myimouto) | 27 October, 2013 | 1.0.6 | [MyImouto License](https://raw.githubusercontent.com/myimouto/myimouto/master/LICENSE)
+[CamelBoard](https://github.com/WinterVein/CamelBoard/) | 29 Aug, 2014 | 1.1 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
+[TinyIB](https://github.com/tslocum/TinyIB) | 27 October, 2014 | 1.5 | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
 
 #Others
 Name | URL
@@ -37,5 +42,11 @@ Xenforo | https://xenforo.com/
 vBulletin | http://www.vbulletin.com/
 
 
+
 Compare boards: http://www.forummatrix.org/
+
 Scraper: https://github.com/lemurproject/forum-seed/
+
+Forums: http://www.opensourcecms.com/scripts/show.php?catid=5
+
+Comparison of Internet forum software: https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software
