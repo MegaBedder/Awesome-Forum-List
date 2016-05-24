@@ -29,7 +29,7 @@ Name | Last release | Current version | License
 [MyImouto](https://github.com/myimouto/myimouto) | 27 October, 2013 | 1.0.6 | [MyImouto License](https://raw.githubusercontent.com/myimouto/myimouto/master/LICENSE)
 [CamelBoard](https://github.com/WinterVein/CamelBoard/) | 29 Aug, 2014 | 1.1 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [TinyIB](https://github.com/tslocum/TinyIB) | 27 October, 2014 | 1.5 | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
-[FlatBoard](http://flatboard.free.fr/) | 16 April, 2016 | 0.8 Beta | MIT license
+[FlatBoard](http://flatboard.free.fr/) | 21 April, 2016 | 0.8 Beta | MIT license
 
 #Others
 Name | URL
