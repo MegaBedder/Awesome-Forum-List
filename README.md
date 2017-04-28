@@ -35,7 +35,7 @@ Name | Last release | Current version | License
 # Others
 
 Name | URL
------------- | ------------- | ------------
+------------ | -------------
 Burning Board | https://www.woltlab.com/wbb/
 Discourse | http://www.discourse.org/
 IPB | https://www.invisionpower.com/
