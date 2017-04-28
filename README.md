@@ -1,9 +1,8 @@
 # List of Forum scripts & Imageboard
-
 Name | Last release | Current version | License
---- | --- | --- | --- | ---
+------------ | ------------- | ------------- | -------------
 [Advanced Electron Forum](http://www.anelectron.com/) | October 28, 2012 | 1.0.9 | [AEF license](http://www.anelectron.com/about.php?page=license)
-[AcmlmBoard XD](https://github.com/ABXD/ABXD) | May 20, 2014 | 3.0  | [BSD](https://raw.githubusercontent.com/ABXD/ABXD/master/LICENSE.md)
+[AcmlmBoard XD](https://github.com/ABXD/ABXD) | May 20, 2014 | 3.0  | [BSD](https://raw.githubusercontent.com/ABXD/ABXD/master/LICENSE.md)
 [Beehive Forum](http://www.beehiveforum.co.uk/) | June 4, 2015 | 1.4.7 | [GPL v2](https://raw.githubusercontent.com/BeehiveForum/BeehiveForum/master/COPYING)
 [FUDForum](http://fudforum.org/) | October 5, 2014 | 3.0.6 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [Flarum](http://flarum.org/) | March 30, 2016 | 0.1.0 Beta 5 | [MIT license](https://raw.githubusercontent.com/flarum/flarum/master/LICENSE)
@@ -31,9 +30,12 @@ Name | Last release | Current version | License
 [TinyIB](https://github.com/tslocum/TinyIB) | 27 October, 2014 | 1.5 | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
 [FlatBoard](http://flatboard.free.fr/) | 21 April, 2016 | 0.8 Beta | MIT license
 
-#Others
+
+
+# Others
+
 Name | URL
---- | ---
+------------ | ------------- | ------------
 Burning Board | https://www.woltlab.com/wbb/
 Discourse | http://www.discourse.org/
 IPB | https://www.invisionpower.com/
@@ -43,11 +45,11 @@ Xenforo | https://xenforo.com/
 vBulletin | http://www.vbulletin.com/
 
 
+# Utils
 
-Compare boards: http://www.forummatrix.org/
-
-Scraper: https://github.com/lemurproject/forum-seed/
-
-Forums: http://www.opensourcecms.com/scripts/show.php?catid=5
-
-Comparison of Internet forum software: https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software
+Name | URL
+------------ | -------------
+Compare boards | http://www.forummatrix.org/
+Scraper | https://github.com/lemurproject/forum-seed/
+Forums | http://www.opensourcecms.com/scripts/show.php?catid=5
+Comparison of Internet forum software | https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software
