@@ -4,6 +4,7 @@ Name | Last release | Current version | License
 [Advanced Electron Forum](http://www.anelectron.com/) | October 28, 2012 | 1.0.9 | [AEF license](http://www.anelectron.com/about.php?page=license)
 [AcmlmBoard XD](https://github.com/ABXD/ABXD) | May 20, 2014 | 3.0  | [BSD](https://raw.githubusercontent.com/ABXD/ABXD/master/LICENSE.md)
 [Beehive Forum](http://www.beehiveforum.co.uk/) | June 4, 2015 | 1.4.7 | [GPL v2](https://raw.githubusercontent.com/BeehiveForum/BeehiveForum/master/COPYING)
+| [ElkArte Forum](http://www.elkarte.net/) | April 22, 2017 | 1.1 RC 1 | [BSD 3-clause](https://github.com/elkarte/Elkarte/blob/development/LICENSE.txt)
 [FUDForum](http://fudforum.org/) | October 5, 2014 | 3.0.6 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [Flarum](http://flarum.org/) | March 30, 2016 | 0.1.0 Beta 5 | [MIT license](https://raw.githubusercontent.com/flarum/flarum/master/LICENSE)
 [flooBB](https://github.com/rosslagerwall/floobb) | July 8, 2011 | 1.2.0 | [GPL v3](https://raw.githubusercontent.com/rosslagerwall/floobb/master/COPYING)
@@ -28,8 +29,8 @@ Name | Last release | Current version | License
 [MyImouto](https://github.com/myimouto/myimouto) | 27 October, 2013 | 1.0.6 | [MyImouto License](https://raw.githubusercontent.com/myimouto/myimouto/master/LICENSE)
 [CamelBoard](https://github.com/WinterVein/CamelBoard/) | 29 Aug, 2014 | 1.1 | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [TinyIB](https://github.com/tslocum/TinyIB) | 27 October, 2014 | 1.5 | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
-[FlatBoard](http://flatboard.free.fr/) | 21 April, 2016 | 0.8 Beta | MIT license
-
+[FlatBoard](http://flatboard.free.fr/) | 27 April, 2017 | 1.0 Beta 3 | MIT license
+[WorldWeb XD](https://github.com/WWXD/WorldWeb-XD) | none | 0.0.1 | [GNU GPL v3](https://github.com/WWXD/WorldWeb-XD/blob/master/License.md)
 
 
 # Others
