@@ -30,7 +30,7 @@ Name | Last release | Current version | Size | License
 [CamelBoard](https://github.com/WinterVein/CamelBoard/) | 29 Aug, 2014 | 1.1 | 0.00 MB | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [TinyIB](https://github.com/tslocum/TinyIB) | 27 October, 2014 | 1.5 | 0.00 MB | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
 [FlatBoard](http://flatboard.free.fr/) | 9 July, 2017 | 1.0.1 | 1.81 MB (ZIP) | MIT license
-[WorldWeb XD](https://github.com/WWXD/WorldWeb-XD) | none | 0.0.1 | 0.00 MB | [GNU GPL v3](https://github.com/WWXD/WorldWeb-XD/blob/master/License.md)
+[WorldWeb XD](https://github.com/WWXD/WorldWeb-XD) | IN DEVELOPMENT | 0.0.1337 | 0.00 KB | [GNU GPL v3](https://github.com/WWXD/WorldWeb-XD/blob/master/License.md)
 
 
 # Others
