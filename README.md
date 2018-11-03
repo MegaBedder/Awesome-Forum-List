@@ -13,8 +13,8 @@ Name | Last release | Current version | Size | License
 [FluxBB](http://fluxbb.org/) | June 16, 2016 | 1.5.10 | 404 KB (ZIP) | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [HaveFnuBB](https://github.com/havefnubb/havefnubb) | January 1, 2013 | 1.5.0 | 0.00 MB | [LGPL](http://www.gnu.org/licenses/lgpl.html)
 [IceBB](https://github.com/icebb/IceBB) | April 18, 2014 | 1.0 | 0.00 MB | [MIT license](https://raw.githubusercontent.com/icebb/IceBB/master/LICENSE)
-[Luna](http://getluna.org/) | November 23, 2016 | 2.0.7 | 1 MB | GPL v3
-[MiniBB](http://www.minibb.com/) | 22 Jun, 2018 | 3.3 | 0.00 MB | [Commercial License](http://www.minibb.com/commercial_license.html)
+[Luna](http://getluna.org/) | 26 July, 2018 | 2.0.12 | 1 MB | [GPL v2.0](https://github.com/GetLuna/Luna/blob/master/LICENSE)
+[MiniBB](http://www.minibb.com/) | 22 Jun, 2018 | 3.3 | 0.00 MB | [Commercial License](http://www.minibb.com/commercial_license.html) & [GPL V2](http://www.minibb.com/forums/COPYING)
 [ModernBB](http://modernbb.be/) | July 28, 2015 | 4.0 | DIE WEBSITE | GPL v3
 [MyBB](http://www.mybb.com/) | September 11, 2018 | 1.8.19 | 2.16 MB (ZIP) | [LGPL](http://www.gnu.org/licenses/lgpl-3.0.html)
 [LayerBB](https://forum.layerbb.com/forum.php) | Sep 29, 2018 | 1.1.1 | 0.00 MB | [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -32,8 +32,8 @@ Name | Last release | Current version | Size | License
 [MyImouto](https://github.com/myimouto/myimouto) | 27 October, 2013 | 1.0.6 | 0.00 MB | [MyImouto License](https://raw.githubusercontent.com/myimouto/myimouto/master/LICENSE)
 [CamelBoard](https://github.com/WinterVein/CamelBoard/) | 29 Aug, 2014 | 1.1 | 0.00 MB | [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html)
 [TinyIB](https://github.com/tslocum/TinyIB) | 27 October, 2014 | 1.5 | 0.00 MB | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
-[TangoBB](https://github.com/TangoBB/TangoBB) | Jul 24, 2015 | 1.5.1 | 0.00 MB | [GPL v3](https://raw.githubusercontent.com/tslocum/TinyIB/master/LICENSE)
-[FlatBoard](http://flatboard.free.fr/) | 9 July, 2017 | 1.0.1 | 1.81 MB (ZIP) | MIT license
+[TangoBB](https://github.com/TangoBB/TangoBB) | Jul 24, 2015 | 1.5.1 | 0.00 MB | [MIT License](https://github.com/TangoBB/TangoBB/blob/master/LICENSE)
+[FlatBoard](http://flatboard.free.fr/) | 25 Feb, 2018 | 1.0.5  | 1.81 MB (ZIP) | MIT license
 [WorldWeb XD](https://github.com/WWXD/WorldWeb-XD) | IN DEVELOPMENT | 0.0.1337 | 0.00 KB | [GNU GPL v3](https://github.com/WWXD/WorldWeb-XD/blob/master/License.md)
 
 
