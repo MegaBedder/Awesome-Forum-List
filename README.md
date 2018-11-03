@@ -14,7 +14,7 @@ Name | Last release | Current version | Size | License
 [HaveFnuBB](https://github.com/havefnubb/havefnubb) | January 1, 2013 | 1.5.0 | 0.00 MB | [LGPL](http://www.gnu.org/licenses/lgpl.html)
 [IceBB](https://github.com/icebb/IceBB) | April 18, 2014 | 1.0 | 0.00 MB | [MIT license](https://raw.githubusercontent.com/icebb/IceBB/master/LICENSE)
 [Luna](http://getluna.org/) | 26 July, 2018 | 2.0.12 | 1 MB | [GPL v2.0](https://github.com/GetLuna/Luna/blob/master/LICENSE)
-[MiniBB](http://www.minibb.com/) | 22 Jun, 2018 | 3.3 | 0.00 MB | [Commercial License](http://www.minibb.com/commercial_license.html) & [GPL V2](http://www.minibb.com/forums/COPYING)
+[MiniBB](http://www.minibb.com/) | 22 Jun, 2018 | 3.3 | 0.00 MB | [GPL V2](http://www.minibb.com/commercial_license.html)
 [ModernBB](http://modernbb.be/) | July 28, 2015 | 4.0 | DIE WEBSITE | GPL v3
 [MyBB](http://www.mybb.com/) | September 11, 2018 | 1.8.19 | 2.16 MB (ZIP) | [LGPL](http://www.gnu.org/licenses/lgpl-3.0.html)
 [LayerBB](https://forum.layerbb.com/forum.php) | Sep 29, 2018 | 1.1.1 | 0.00 MB | [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
